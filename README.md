@@ -1,28 +1,22 @@
-## Your Name
+## Roxana Pirvu
 
-I am a overly excited human, I've studies Medical Engineering and worked in healthcare. After realizing that after a while there isn't much left to feel excited about, I started to feel "stuck" and I've decided it's time for a career change and  Makers Academy seemed the perfect place to start. 
+I am an overly excited human, I've studies Medical Engineering and worked in healthcare. After realizing that after a while there isn't much left to feel excited about, I started to feel "stuck" and I've decided it's time for a career change and  Makers Academy seemed the perfect place to start. 
 
-I would like to be offered the opportunity to continue my learning in a friendly and fun environment.
+I would like the opportunity to continue my learning in a friendly and fun environment.
 
 
 ## Skills
 
-#### This Skill
+#### Fast learner
+Blablabla
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Adaptable
 
-- Experience
-- Achievements
-- Evidence
+#### Thrives under pressure
 
-#### Another Skill
+#### Attentiton to details
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### 
 
 ## Education
 
