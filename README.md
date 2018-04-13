@@ -1,6 +1,9 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a overly excited human, I've studies Medical Engineering and worked in healthcare. After realizing that after a while there isn't much left to feel excited about, I started to feel "stuck" and I've decided it's time for a career change and  Makers Academy seemed the perfect place to start. 
+
+I would like to be offered the opportunity to continue my learning in a friendly and fun environment.
+
 
 ## Skills
 
@@ -23,7 +26,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2018 to July 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +37,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Birkbeck University of London (2012 to 2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Post Graduate Certificate Analytical Bioscience
 
-#### Any other qualifications
+#### Technical University of Cluj-Napoca (2008 to 2012)
+
+BSc Medical Engineering
+
+#### "Anghel-Rugina" Economic College (2004 to 2008)
+
+College diploma Mathematics-Computer Scrience
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Boots Opticians** (2014 to 2015)    
+*Optical consultant*  
+**CNWL NHS foundation trust** (2016 - 2018)   
+*Medical Lab assistant*
+*Bank staff - admin*
