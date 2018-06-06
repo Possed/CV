@@ -1,9 +1,5 @@
 ## Roxana Pirvu
 
-I am an overly excited human, I've studies Medical Engineering and worked in healthcare. After realizing that after a while there isn't much left to feel excited about, I started to feel "stuck" and I've decided it's time for a career change and  Makers Academy seemed the perfect place to start. 
-
-I would like the opportunity to continue my learning in a friendly and fun environment.
-
 
 ## Skills
 
