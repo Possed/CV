@@ -73,11 +73,11 @@ College diploma Mathematics-Computer Scrience
 Makers Academy - 16 weeks of individual and team projects.
 
 **CNWL NHS foundation trust** (2016 - 2018)   
-*Medical Lab assistant* 
+Medical Lab assistant
 
-*admin for Single point of referral*
+admin for Single point of referral
 
-*admin for adult mental health *
+admin for adult mental health
 
 **Boots Opticians** (2014 to 2015)    
 *Optical consultant*  
