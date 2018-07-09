@@ -1,6 +1,8 @@
 ## Roxana Pirvu
 r0xana.pirvu@yahoo.com
 
+[Who am I](#who-am-I) | [Projects](#projects) | [What matters to me](#what-matters-to-me) | [Skills](#skills) | [Education](#education) | [Experience](#experience)
+
 ## Who I am
 A full-stack developer, fresh Makers graduate, currently looking for a job.
 I have always worked in different health-care roles until I realizes that coding would give me the freedom to work in any industry I want doing what I love most: experimenting, building and destroying things.
