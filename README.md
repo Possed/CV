@@ -9,9 +9,8 @@ I have always worked in different health-care roles until I realizes that coding
 | Title | Description | Development Timeframe | Technologies Used | Test Suites |
 | --- | --- | --- | --- | --- |
 | [Hyper Cat](https://github.com/williampowell92/hyper_cat) | Final project | 2 weeks | This application was built using Javascript, HTML and CSS. It was served on an express server and deployed using Travis and Heroku |  Jasmine, Karma and Istanbul |
-| [Acebook-Blunicorn](https://github.com/Possed/Acebook-Blunicorn) | 
-This Java/ Spring application was built during the group engineering project week at Makers. The goal was to build a web app that has some of the features and functionality of Facebook. We decided to build this in a stack that was brand new to all of us because we wanted a challenge and we wanted to showcase our ability to learn quickly. | 2 weeks | Java/Springboot, Maven, Webpack, Thymeleaf, React | |
-| [Bank tech test])https://github.com/Possed/bank_tech_test) | Aim - testing OO and TDD skills by creating code that is easy to access and interact via IRB. | 1 week | Ruby | RSpec|
+| [Acebook-Blunicorn](https://github.com/Possed/Acebook-Blunicorn) | This Java/ Spring application was built during the group engineering project week at Makers. The goal was to build a web app that has some of the features and functionality of Facebook. We decided to build this in a stack that was brand new to all of us because we wanted a challenge and we wanted to showcase our ability to learn quickly. | 2 weeks | Java/Springboot, Maven, Webpack, Thymeleaf, React | |
+| [Bank tech test](https://github.com/Possed/bank_tech_test) | Aim - testing OO and TDD skills by creating code that is easy to access and interact via IRB. | 1 week | Ruby | RSpec|
 
 ## What matters to me
 I always put people first - the software I am writing is for people to use so I am trying to make it easy to use, read, change and have good documentation.
