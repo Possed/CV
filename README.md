@@ -1,7 +1,10 @@
 ## Roxana Pirvu
 r0xana.pirvu@yahoo.com
 
-# Who I am
+## Who I am
+A full-stack developer, fresh Makers graduate, currently looking for the perfect job.
+
+
 passionate, curious, love building things, love destroying things
 put people first - software I am writing is for people to use - make it easy to use, read, change and have good documentation
 not afraid to try new things, love to learn new things, experiement and learn from experiences to improve
@@ -45,7 +48,7 @@ Blablabla
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, JavaScript, Java,
 - RSpec, Jasmine
 
 projects I want to show:
@@ -57,27 +60,23 @@ Bank tech test - represents full journey
 #### Birkbeck University of London (2012 to 2014)
 
 Post Graduate Certificate Analytical Bioscience
-learned analytical thinking and how to work in a lab
 
 #### Technical University of Cluj-Napoca (2008 to 2012)
 
 BSc Medical Engineering
-learned the principles of engineering
 
 #### "Anghel-Rugina" Economic College (2004 to 2008)
 
 College diploma Mathematics-Computer Scrience
-learned about algorithms, and how to use them
 
 ## Experience
-Makers Academy
+Makers Academy - 16 weeks of individual and team projects.
 
 **CNWL NHS foundation trust** (2016 - 2018)   
-*Medical Lab assistant* worked in a lab and applied knowledge gained while studiyng Analytical Bioscience
-*admin for Single point of referral* - learned how all services offered by an organisation communicate and work together to offer the best pathway for every user
-admin for adult mental health - learned the process a vulnarable person goes through to get help
-paediatric secretary for Child development team - 
+*Medical Lab assistant* 
+*admin for Single point of referral*
+*admin for adult mental health *
 
 **Boots Opticians** (2014 to 2015)    
-*Optical consultant*  - learned how to talk and listen to customers and understand thier needs to provide the best solution for them
+*Optical consultant*  
 
