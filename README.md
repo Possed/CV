@@ -5,8 +5,14 @@ r0xana.pirvu@yahoo.com
 A full-stack developer, fresh Makers graduate, currently looking for a job.
 I have always worked in different health-care roles until I realizes that coding would give me the freedom to work in any industry I want doing what I love most: experimenting, building and destroying things.
 
+## Projects
+| Title | Description | Development Timeframe | Technologies Used | Test Suites |
+| --- | --- | --- | --- | --- |
+| [Hyper Cat](https://github.com/williampowell92/hyper_cat) | Final project | 2 weeks | This application was built using Javascript, HTML and CSS. It was served on an express server and deployed using Travis and Heroku |  Jasmine, Karma and Istanbul |
+| git diff | Show file differences that haven't been staged |
+
 ## What matters to me
-I always put people first - software I am writing is for people to use so I am trying to make it easy to use, read, change and have good documentation.
+I always put people first - the software I am writing is for people to use so I am trying to make it easy to use, read, change and have good documentation.
 
 I am passionate about problem solving, logical and structured thinking - using logic and reasoning to identify the strenghts and weaknesses of alternative solutions, conclusions or approaches to problems.
 
@@ -25,7 +31,7 @@ Makers helped me discover a new power - quick learning abilities - learn new con
 I am not afraid to try new things, experiement and learn from experiences to improve. As a bank staff for NHS I used to work different roles all the time and I enjoyed being part of different teams and learn how they work and how they connect to different other services.
 
 #### Teamwork
-
+I love being part of a team, share my ideas and learn from others.
 
 #### 
 
