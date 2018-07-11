@@ -5,7 +5,7 @@ r0xana.pirvu@yahoo.com
 
 ## Who I am
 A full-stack developer, fresh Makers graduate, currently looking for a job.
-I have always worked in different health-care roles until I realizes that coding would give me the freedom to work in any industry I want doing what I love most: experimenting, building and destroying things.
+I have always worked in different health-care roles until I realised that coding would give me the freedom to work in any industry I want, doing what I love most: experimenting, building and destroying things.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites |
@@ -19,7 +19,7 @@ I always put people first - the software I am writing is for people to use so I 
 
 I am passionate about problem solving, logical and structured thinking - using logic and reasoning to identify the strenghts and weaknesses of alternative solutions, conclusions or approaches to problems.
 
-TDD - avoids tedious and time-consuming searching for errors in code; number of bugs is reduced, maintability is enhanced and productivity is incresead - benefits for both programmers and businesses
+TDD - avoids tedious and time-consuming searching for errors in code; number of bugs is reduced, maintability is enhanced and productivity is incresead - benefits for both programmers and businesses.
 
 Feedback - always an oportunity to reflect on how you are doing things and how you can improve.
 
@@ -28,10 +28,10 @@ Feedback - always an oportunity to reflect on how you are doing things and how y
 ## Skills
 
 #### Fast learner
-Makers helped me discover a new power - quick learning abilities - learn new concenpt and apply them to a range of different problems that serve various purposes.
+Makers helped me discover a new power - quick learning abilities - learn new concepts and apply them to a range of different problems that serve various purposes.
 
 #### Adaptable
-I am not afraid to try new things, experiement and learn from experiences to improve. As a bank staff for NHS I used to work different roles all the time and I enjoyed being part of different teams and learn how they work and how they connect to different other services.
+I am not afraid to try new things, experiement and learn from experiences to improve. As a bank staff for NHS I used to work different roles all the time and I enjoyed being part of different teams and learn how they work and how they connect to other services.
 
 #### Teamwork
 I love being part of a team, share my ideas and learn from others.
